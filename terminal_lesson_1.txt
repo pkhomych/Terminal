@@ -1,6 +1,0 @@
-pwd
-mkdir
-touch
-cd
-mv
-cp
